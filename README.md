@@ -31,7 +31,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/Sr.Tonno/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/tono-villarejo-reig-b60554263/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:tonovillarejo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
