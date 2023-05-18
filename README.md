@@ -18,7 +18,7 @@
 - 🛢 &nbsp; MySQL | Elastic Search | MongoDB
 - 🔧 &nbsp; Docker | Virtual Box | Vagrant
 - 🖥 &nbsp; GNU/Linux | Windows
-- 📈 &nbsp; Tablau | Power Bi | Kibana
+- 📈 &nbsp; Tableau | Power Bi | Kibana
 
 <br>
 
