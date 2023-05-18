@@ -14,11 +14,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | bash | C  
-- 🌐 &nbsp; Kafka | Spark | node-red
+- 🌐 &nbsp; Kafka | Spark | node-red | Zabbix
 - 🛢 &nbsp; MySQL | Elastic Search | MongoDB
 - 🔧 &nbsp; Docker | Virtual Box | Vagrant
 - 🖥 &nbsp; GNU/Linux | Windows
-- 📈 &nbsp; Tablou | Power Bi | Kibana
+- 📈 &nbsp; Tablau | Power Bi | Kibana
 
 <br>
 
