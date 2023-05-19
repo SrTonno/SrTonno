@@ -2,9 +2,9 @@
 
 [![tvillare's 42 stats](https://badge42.vercel.app/api/v2/clhul583x003508l1f7vqc4ho/stats?cursusId=21&coalitionId=64)](https://profile.intra.42.fr/users/tvillare)
 
-<h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MxNmE2YjM2OGEyYjQ2Yzg3OTQxZjg1MjgxN2I4NzQxMmE2YzkyOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwM2MxNTljODE0ZmM2NGY0ZGE0YzA5ODEzYTk5OTkwNDA1M2Q0MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning  computer programming in 42Madrid
 <!-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.-->
